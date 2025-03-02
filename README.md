@@ -7,6 +7,9 @@ Welcome to the IBM Data Science Capstone project! In this project, we will predi
 ### 🎯 Objective
 Our goal is to predict whether the Falcon 9 **first stage will land successfully** after launch. If we can predict this reliably, we can estimate the **cost of a SpaceX launch** and offer valuable insights for competing companies who may bid for a launch against SpaceX. 💸
 
+![SpaceX Launch Records Dashboard](https://github.com/Willie-Conway/SpaceX-Falcon9-First-Stage-Landing-Prediction/blob/fd1e3816c65884dd1d49b3a63cb2eb88d067feae/IBM%20Data%20Science%20Capstone/SpaceX%20Launch%20Records%20Dashboard.gif)
+
+
 ## 🛠️ Data Collection & Preprocessing
 
 ### 📡 Data Source
